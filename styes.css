@@ -1,0 +1,11 @@
+
+.J {color: orange;}
+
+nav{display: flex;
+justify-content: space-between;}
+nav li {list-style: none;
+    margin: 5px;}
+nav ul{display: flex;}
+button{color: tomato;
+width: 60px ; height: 30px;}
+.f{color: orangered;}
