@@ -1,11 +1,40 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
 
-.J {color: orange;}
+/*header and navigation style  */
+.N {
 
-nav{display: flex;
-justify-content: space-between;}
-nav li {list-style: none;
-    margin: 5px;}
-nav ul{display: flex;}
-button{color: tomato;
-width: 60px ; height: 30px;}
-.f{color: orangered;}
+    font: size 30px;
+}
+
+.A {
+    color: salmon;
+}
+
+nav li {
+    list-style: none;
+    margin-left: 30px;
+}
+
+nav {
+    justify-content: space-between;
+    display: flex;
+    margin: 30px 150px;
+}
+
+nav ul { align-items: center;
+    display: flex;
+}
+
+.span {
+    width: 64px;
+    border-radius: 5px; border: none;
+        border-color: tomato;
+    background-color: salmon;}
+img{padding-left: 50px; 
+ padding-bottom:    500px;}
+ .BANNER{display: flex;}
+ .TT{justify-content: space-between;}
+ body{background-image:url(header_bg.png) ;
+background-repeat: no-repeat;}
